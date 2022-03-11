@@ -1,0 +1,20 @@
+person:
+  id: 1001
+  name: ali
+  hobby: 抽烟,喝酒,烫头
+  family:
+    - 老婆
+    - 父母
+    - 孩子
+  map:
+    k1: v1
+    k2: v2
+  pet:
+    type: dog
+    name: 旺财
+#person.hobby=抽烟,喝酒,烫头
+#person.family=老婆,父母,孩子
+#person.map.k1=v1
+#person.map.k2=v2
+#person.pet.type=dog
+#person.pet.name=旺财
